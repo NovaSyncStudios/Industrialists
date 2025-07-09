@@ -10,6 +10,15 @@
 	    	"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 		"Can build [Fort] improvements at a [+150]% rate",
             	"Great Person - [Production]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"movement": 3
+	},
+	{
+		"name": "Laborer",
+		"unitType": "Civilian",
+		"uniqueTo": "Industrialists",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 20
+		"requiredTech": "Industrialization",
 	},
 ]
