@@ -5,7 +5,7 @@
 		"replaces": "Great Engineer",
 		"uniqueTo": "Industrialists",
 		"uniques": ["Can speed up construction of a building",
-        	"Can instantly construct a [Manufactory] improvement <for all movement> <costs 250 gold>",
+        	"Can instantly construct a [Manufactory] improvement <for all movement>",
 	    	"Can instantly construct a [Academy] improvement <by consuming this unit>",
 	    	"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 		"Can build [Fort] improvements at a [+150]% rate",
